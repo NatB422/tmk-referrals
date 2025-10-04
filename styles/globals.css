@@ -1,0 +1,8 @@
+html, body, #__next {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+main { padding: 2rem }
+input { padding: .5rem; margin-right: .5rem }
